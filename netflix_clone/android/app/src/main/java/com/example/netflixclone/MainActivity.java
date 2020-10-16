@@ -1,4 +1,4 @@
-package com.example.netflixclone;
+package com.example.rzo;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
